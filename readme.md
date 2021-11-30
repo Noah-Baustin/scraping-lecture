@@ -14,3 +14,4 @@ First, fork the repo at https://github.com/soooh/scraping-lecture. Then follow t
 (scraping-lecture-3.8.5) % pip install -r requirements-3.8.5.txt
 (scraping-lecture-3.8.5) % jupyter lab
 ```
+test
